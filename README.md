@@ -1,18 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Zhengyang Liang (梁正阳)
 
-<!--
-**chrisx599/chrisx599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year Ph.D. student in Computer Science at Singapore Management University (SMU), fortunate to be advised by Prof. Lizi Liao. My research interests lie in **Video Multimodal Large Language Models (Video MLLM)** and **Self-Supervised Learning**.
 
-Here are some ideas to get you started:
+Previously, I was a research intern at the Beijing Academy of Artificial Intelligence (BAAI), where I was mentored by Prof. Zheng Liu and Prof. Bo Zhao.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me at: `chr1ce [at] foxmail.com`
+
+### 🔗 Links
+* **Google Scholar**: [https://scholar.google.com/citations?user=Zhengyang\_Liang](https://scholar.google.com/citations?user=Zhengyang_Liang)
+
+
 ### Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisx599)](https://github.com/anuraghazra/github-readme-stats)
