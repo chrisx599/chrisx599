@@ -12,4 +12,4 @@ Previously, I was a research intern at the Beijing Academy of Artificial Intelli
 
 ### Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisx599&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisx599)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisx599&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
