@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zhengyang Liang (梁正阳)
 
-I am a first-year Ph.D. student in Computer Science at Singapore Management University (SMU), fortunate to be advised by Prof. Lizi Liao. My research interests lie in **Video Multimodal Large Language Models (Video MLLM)** and **Self-Supervised Learning**.
+I am a first-year Ph.D. student in Computer Science at Singapore Management University (SMU), fortunate to be advised by Prof. Lizi Liao. My research interests lie in **Video Multimodal Large Language Models (Video MLLM)** and **Multimodal Agents**.
 
 Previously, I was a research intern at the Beijing Academy of Artificial Intelligence (BAAI), where I was mentored by Prof. Zheng Liu and Prof. Bo Zhao.
 
