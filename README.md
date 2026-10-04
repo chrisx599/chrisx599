@@ -1,13 +1,11 @@
-# Hi, I'm Zhengyang Liang (梁正阳) 👋
+# Hi, I'm Yang 👋
 
-🎓 **CS Ph.D. @ SMU** | 🎬 **Video MLLMs** | 🤖 **Multimodal Agents**
+🎓 **CS Ph.D. Candidate @ SMU** | 🎬 **Video MLLMs** | 🤖 **Multimodal Agents**
 
 Advised by Prof. Lizi Liao at Singapore Management University. Previously a research intern at BAAI with Prof. Zheng Liu and Prof. Bo Zhao.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ## Projects
 
