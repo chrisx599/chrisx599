@@ -13,11 +13,9 @@ Advised by Prof. Lizi Liao at Singapore Management University. Previously a rese
 
 - 🎬 **[UniVA](https://github.com/univa-agent/univa)** - Plan, generate, and edit videos with multimodal agents. [Paper](https://arxiv.org/abs/2511.08521)
 - 🔎 **[Video-Browser](https://github.com/chrisx599/Video-Browser)** - An agent that searches and watches videos to answer questions. [Paper](https://arxiv.org/abs/2512.23044)
-- 🧠 **[DSMD](https://github.com/chrisx599/DSMD)** - Distill multimodal models for efficient image-text retrieval. [Paper](https://arxiv.org/abs/2404.10838)
 - 📝 **[Video2Article](https://github.com/chrisx599/Video2Article)** - From videos to illustrated articles, with agent-selected frames.
 - 📬 **[ChatEmail](https://github.com/chrisx599/ChatEmail)** - AI email summaries, priority analysis, and an inbox interface.
 - 🎮 **[Escape from Ivory Towerkov](https://github.com/chrisx599/EscapefromIvoryTowerkov)** - A research-themed extraction game with an academic career loop.
-- 🧪 **[VideoMAS](https://github.com/chrisx599/VideoMAS)** - A multi-agent video generation prototype with planning and reflection.
 - 🕸️ **[CrawURLKnowledge](https://github.com/chrisx599/crawurknowledge)** - Turn documentation websites into searchable RAG knowledge bases.
 - 🎙️ **[Pod2Article](https://github.com/chrisx599/Pod2Article)** - YouTube search and timestamped transcripts for agent-written articles.
 - 💬 **[ConflictLens](https://github.com/chrisx599/conflictlens)** - Bilingual communication practice with AI reflection and feedback.
