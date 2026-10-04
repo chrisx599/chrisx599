@@ -1,15 +1,26 @@
-### Hi there 👋, I'm Zhengyang Liang (梁正阳)
+# Hi, I'm Yang 👋
 
-I am a first-year Ph.D. student in Computer Science at Singapore Management University (SMU), fortunate to be advised by Prof. Lizi Liao. My research interests lie in **Video Multimodal Large Language Models (Video MLLM)** and **Multimodal Agents**.
+🎓 **CS Ph.D. Candidate @ SMU** | 🎬 **Video MLLMs** | 🤖 **Multimodal Agents**
 
-Previously, I was a research intern at the Beijing Academy of Artificial Intelligence (BAAI), where I was mentored by Prof. Zheng Liu and Prof. Bo Zhao.
+Advised by Prof. Lizi Liao at Singapore Management University. Previously a research intern at BAAI with Prof. Zheng Liu and Prof. Bo Zhao.
 
-📫 You can reach me at: `chr1ce [at] foxmail.com`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### 🔗 Links
-* **Google Scholar**: [https://scholar.google.com/citations?user=Zhengyang\_Liang](https://scholar.google.com/citations?user=Zhengyang_Liang)
+## Projects
 
+- 🎬 **[UniVA](https://github.com/univa-agent/univa)** - Plan, generate, and edit videos with multimodal agents. [Paper](https://arxiv.org/abs/2511.08521)
+- 🔎 **[Video-Browser](https://github.com/chrisx599/Video-Browser)** - An agent that searches and watches videos to answer questions. [Paper](https://arxiv.org/abs/2512.23044)
+- 📽️ **[Video-XL-2](https://github.com/VectorSpaceLab/Video-XL)** *(co-author)* - Efficient long-video understanding through task-aware KV sparsification. [Paper](https://arxiv.org/abs/2506.19225)
+- 👁️ **[MMVU](https://github.com/BAAI-DCAI/MMVU)** *(co-author)* - Benchmarking MLLM robustness to misleading questions. [Paper](https://arxiv.org/abs/2406.10638)
+- 📝 **[Video2Article](https://github.com/chrisx599/Video2Article)** - From videos to illustrated articles, with agent-selected frames.
+- 🖥️ **[OmniMate](https://github.com/chrisx599/OmniMate)** - A screen-aware assistant prototype with multimodal memory and MCP tools.
+- 📬 **[ChatEmail](https://github.com/chrisx599/ChatEmail)** - AI email summaries, priority analysis, and an inbox interface.
+- 🎮 **[Escape from Ivory Towerkov](https://github.com/chrisx599/EscapefromIvoryTowerkov)** - A research-themed extraction game with an academic career loop.
+- 🕸️ **[CrawURLKnowledge](https://github.com/chrisx599/crawurknowledge)** - Turn documentation websites into searchable RAG knowledge bases.
+- 🎙️ **[Pod2Article](https://github.com/chrisx599/Pod2Article)** - YouTube search and timestamped transcripts for agent-written articles.
+- 💬 **[ConflictLens](https://github.com/chrisx599/conflictlens)** - Bilingual communication practice with AI reflection and feedback.
 
-### Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisx599&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisx599&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Connect
+
+[Homepage](https://liang-zhengyang.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=9IC8FBQAAAAJ) · `chr1ce [at] foxmail.com`
