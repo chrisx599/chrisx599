@@ -1,42 +1,27 @@
-# Zhengyang Liang · 梁正阳
+# Hi, I'm Zhengyang Liang (梁正阳) 👋
 
-I'm a Ph.D. student in Computer Science at **Singapore Management University**, advised by **Prof. Lizi Liao**. My research focuses on **video multimodal large language models** and **multimodal agents**.
+🎓 **CS Ph.D. @ SMU** | 🎬 **Video MLLMs** | 🤖 **Multimodal Agents**
 
-Previously, I was a research intern at the **Beijing Academy of Artificial Intelligence (BAAI)**, mentored by **Prof. Zheng Liu** and **Prof. Bo Zhao**.
+Advised by Prof. Lizi Liao at Singapore Management University. Previously a research intern at BAAI with Prof. Zheng Liu and Prof. Bo Zhao.
 
-[Homepage](https://liang-zhengyang.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=9IC8FBQAAAAJ) · Contact: `chr1ce [at] foxmail.com`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-## Selected research
+## Projects
 
-### [UniVA](https://github.com/univa-agent/univa) · Universal Video Agent
+- 🎬 **[UniVA](https://github.com/univa-agent/univa)** - Plan, generate, and edit videos with multimodal agents. [Paper](https://arxiv.org/abs/2511.08521)
+- 🔎 **[Video-Browser](https://github.com/chrisx599/Video-Browser)** - An agent that searches and watches videos to answer questions. [Paper](https://arxiv.org/abs/2512.23044)
+- 🧠 **[DSMD](https://github.com/chrisx599/DSMD)** - Distill multimodal models for efficient image-text retrieval. [Paper](https://arxiv.org/abs/2404.10838)
+- 📝 **[Video2Article](https://github.com/chrisx599/Video2Article)** - From videos to illustrated articles, with agent-selected frames.
+- 📬 **[ChatEmail](https://github.com/chrisx599/ChatEmail)** - AI email summaries, priority analysis, and an inbox interface.
+- 🎮 **[Escape from Ivory Towerkov](https://github.com/chrisx599/EscapefromIvoryTowerkov)** - A research-themed extraction game with an academic career loop.
+- 🧪 **[VideoMAS](https://github.com/chrisx599/VideoMAS)** - A multi-agent video generation prototype with planning and reflection.
+- 🕸️ **[CrawURLKnowledge](https://github.com/chrisx599/crawurknowledge)** - Turn documentation websites into searchable RAG knowledge bases.
+- 🎙️ **[Pod2Article](https://github.com/chrisx599/Pod2Article)** - YouTube search and timestamped transcripts for agent-written articles.
+- 💬 **[ConflictLens](https://github.com/chrisx599/conflictlens)** - Bilingual communication practice with AI reflection and feedback.
 
-An open-source video agent for planning, generating, and editing videos through natural-language interaction, with a planning-and-execution architecture and modular MCP tools.
+## Connect
 
-[Code](https://github.com/univa-agent/univa) · [Paper](https://arxiv.org/abs/2511.08521)
-
-### [Video-Browser](https://github.com/chrisx599/Video-Browser) · Agentic Open-web Video Browsing
-
-An agent that searches, watches, and analyzes online videos to answer complex questions, using pyramidal perception for efficient video understanding.
-
-[Code](https://github.com/chrisx599/Video-Browser) · [Paper](https://arxiv.org/abs/2512.23044)
-
-### [DSMD](https://github.com/chrisx599/DSMD) · Efficient Cross-modal Representation Learning
-
-Dynamic self-adaptive multiscale distillation from a pretrained multimodal model for efficient image-text representation learning.
-
-[Code](https://github.com/chrisx599/DSMD) · [Paper](https://arxiv.org/abs/2404.10838)
-
-## Tools & side projects
-
-| Project | What it does |
-| :--- | :--- |
-| **[Video2Article](https://github.com/chrisx599/Video2Article)** | Turns videos into illustrated articles through video search, structured memory, and agent-selected keyframes. |
-| **[ChatEmail](https://github.com/chrisx599/ChatEmail)** | An AI email assistant with IMAP retrieval, batch summaries, priority analysis, and a React interface. |
-| **[Escape from Ivory Towerkov](https://github.com/chrisx599/EscapefromIvoryTowerkov)** | A research-themed extraction and career game: gather materials, run experiments, publish papers, and progress through an academic career. |
-
-## More open-source work
-
-- **[VideoMAS](https://github.com/chrisx599/VideoMAS)**: A research prototype for multi-agent video generation, with planning, evaluation, reflection, and prompt optimization.
-- **[CrawURLKnowledge](https://github.com/chrisx599/crawurknowledge)**: Documentation crawling, structured extraction, and local RAG with ChromaDB or FAISS.
-- **[Pod2Article](https://github.com/chrisx599/Pod2Article)**: YouTube search and complete timestamped transcript context for agent-written articles.
-- **[ConflictLens](https://github.com/chrisx599/conflictlens)**: A bilingual communication-practice app with reflection, rewriting exercises, and AI feedback.
+[Homepage](https://liang-zhengyang.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=9IC8FBQAAAAJ) · `chr1ce [at] foxmail.com`
